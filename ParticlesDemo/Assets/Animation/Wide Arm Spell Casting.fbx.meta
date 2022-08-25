@@ -60,11 +60,11 @@ ModelImporter:
       curves: []
       events:
       - time: 0.45955676
-        functionName: Spell
+        functionName: Spell2
         data: 
-        objectReferenceParameter: {instanceID: 0}
+        objectReferenceParameter: {fileID: 9100000, guid: 2688926f3a38e134bb4a6dd264f896a0, type: 2}
         floatParameter: 0
-        intParameter: 0
+        intParameter: 2
         messageOptions: 0
       transformMask: []
       maskType: 3
